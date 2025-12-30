@@ -1,0 +1,5 @@
+SENTIMENT SUMMARY
+-----------------
+Positive: 1452
+Negative: 545
+Neutral: 3
