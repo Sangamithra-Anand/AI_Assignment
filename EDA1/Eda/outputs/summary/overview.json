@@ -1,0 +1,38 @@
+{
+  "shape": [
+    2126,
+    14
+  ],
+  "dtypes": {
+    "LB": "float64",
+    "AC": "float64",
+    "FM": "float64",
+    "UC": "float64",
+    "DL": "float64",
+    "DS": "float64",
+    "DP": "float64",
+    "ASTV": "float64",
+    "MSTV": "float64",
+    "ALTV": "float64",
+    "MLTV": "float64",
+    "Width": "float64",
+    "Tendency": "float64",
+    "NSP": "float64"
+  },
+  "missing": {
+    "LB": 21,
+    "AC": 20,
+    "FM": 0,
+    "UC": 0,
+    "DL": 0,
+    "DS": 21,
+    "DP": 21,
+    "ASTV": 0,
+    "MSTV": 0,
+    "ALTV": 0,
+    "MLTV": 21,
+    "Width": 21,
+    "Tendency": 21,
+    "NSP": 21
+  }
+}
