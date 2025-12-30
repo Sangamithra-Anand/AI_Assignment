@@ -1,0 +1,7 @@
+MARKET BASKET ANALYSIS REPORT
+=============================
+
+Total Rules: 160
+Strongest Rule: ['herb & pepper'] -> ['ground beef']
+Lift: 3.292
+Confidence: 0.323
