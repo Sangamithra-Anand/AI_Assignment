@@ -1,0 +1,13 @@
+=== Model 1 Coefficients ===
+{'Age_08_04': np.float64(-121.22919136410243), 'KM': np.float64(-0.01599714913987086), 'HP': np.float64(16.07543778697709), 'Automatic': np.float64(268.82221062689047), 'cc': np.float64(-0.04710948765722233), 'Doors': np.float64(-88.09716375532783), 'Cylinders': np.float64(-4.547473508864641e-13), 'Gears': np.float64(455.0118735780973), 'Weight': np.float64(26.361201681337352), 'Fuel_Type_Diesel': np.float64(-389.6838431526137), 'Fuel_Type_Petrol': np.float64(1128.9330602216837)}
+
+=== High VIF Features Removed ===
+['Cylinders', 'Fuel_Type_Diesel', 'Fuel_Type_Petrol']
+
+=== Model 2 Coefficients (Reduced Model) ===
+{'Age_08_04': np.float64(-121.51658363308171), 'KM': np.float64(-0.019561976991750496), 'HP': np.float64(30.786806291231002), 'Automatic': np.float64(515.1901682347095), 'cc': np.float64(-0.140041517872305), 'Doors': np.float64(-22.02296038726007), 'Gears': np.float64(437.8318827960393), 'Weight': np.float64(20.06975273565269)}
+
+=== Model 3 Coefficients (Scaled Model) ===
+[-2.26620286e+03 -6.04351775e+02  2.41613661e+02  5.98292189e+01
+ -2.19179477e+01 -8.38102816e+01 -1.13686838e-13  8.08742239e+01
+  1.33318333e+03 -1.21809520e+02  3.68280977e+02]

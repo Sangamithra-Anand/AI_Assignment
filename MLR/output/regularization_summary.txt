@@ -1,0 +1,12 @@
+=== LASSO & RIDGE REGRESSION SUMMARY ===
+
+LASSO REGRESSION:
+Best Alpha: 59.77996653539907
+Coefficients:
+{'Age_08_04': np.float64(-2253.9119548359904), 'KM': np.float64(-636.1680608043247), 'HP': np.float64(316.8251409760245), 'Automatic': np.float64(27.605053119906838), 'cc': np.float64(-0.0), 'Doors': np.float64(-0.0), 'Cylinders': np.float64(0.0), 'Gears': np.float64(32.739762622857086), 'Weight': np.float64(1103.5897890532576), 'Fuel_Type_Diesel': np.float64(-0.0), 'Fuel_Type_Petrol': np.float64(250.3322385496026)}
+
+RIDGE REGRESSION:
+Best Alpha: 100.0
+Coefficients:
+{'Age_08_04': np.float64(-2071.1939624937017), 'KM': np.float64(-712.3292626516941), 'HP': np.float64(321.493262746004), 'Automatic': np.float64(70.15660021292722), 'cc': np.float64(-9.022022809773787), 'Doors': np.float64(-22.3130660762007), 'Cylinders': np.float64(0.0), 'Gears': np.float64(81.75551160496163), 'Weight': np.float64(1165.8596557011178), 'Fuel_Type_Diesel': np.float64(-79.32052644490301), 'Fuel_Type_Petrol': np.float64(194.88323753468183)}
+
